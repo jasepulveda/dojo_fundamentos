@@ -120,6 +120,7 @@ def b():
 a()
 
 #15
+# Imprimirá los valores 1, 3, 5 y 10
 def a():
     print(1)
     x = b()
